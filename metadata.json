@@ -1,0 +1,6 @@
+{
+  "name": "MotionVerse AI",
+  "description": "Premium 3D AI Video Studio powered by Seedance 2.5 with Text-to-Video, Image-to-Video, Dance & Motion, and Owner Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
